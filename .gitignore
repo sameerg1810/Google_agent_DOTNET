@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.vscode/
+.angular/
+.src/project-8f2d09ba-e77c-477d-a34-4285c2613d30.json
+*.json
+src/project-*.json
