@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenAiApp.Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+715c74fcef34d5a8e2b03ed654e077b775e7101e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+160676ff0458ec007daf009a747854f358e8f5c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenAiApp.Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenAiApp.Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
